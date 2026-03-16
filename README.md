@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 핵심 차별점
+## 🎯 주요 적용점
 
 **1. Hybrid Model Architecture**  
 시계열 Lab 데이터(혈액검사, 바이탈 사인)를 Transformer 기반 딥러닝으로 학습 → 동적 위험도 점수(`TS_Prob`) 산출 후 Tree-based 모델과 결합
